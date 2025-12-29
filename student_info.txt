@@ -1,0 +1,3 @@
+id,name,dept
+1,A,FIN
+2,B,BUS
